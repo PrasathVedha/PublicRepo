@@ -1,0 +1,11 @@
+def add(a,b):
+    '''This function will calc;ate the sum of 2 number'''
+ def add(a,b):
+     '''code created :15-09-2022
+        welcome to  my code
+        This fuction eill calculate the sum of 2 numbers
+        Thank you for reading my code'''
+    print('sum is ',a+b)
+
+add(12,34)
+print(add.doc)
